@@ -1,6 +1,6 @@
 # AKR research artifact
 
-Companion artifact for **Skip the Noise, Keep the Signal: Difficulty-Aware Knowledge Routing for Ultra-Compact Model Distillation**.
+Companion artifact for **AKR: Adaptive Knowledge Routing for Selective Distillation in Ultra-Compact Image Classifiers**.
 
 ## Reproduce reported analyses (CPU; no training)
 
