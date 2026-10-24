@@ -1,0 +1,72 @@
+[
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 5,
+    "params": 14068,
+    "accuracy": 41.715,
+    "f1_macro": 41.5804,
+    "ece": 0.050082,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T17:11:33.713554"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 42,
+    "params": 14068,
+    "accuracy": 41.6505,
+    "f1_macro": 42.7067,
+    "ece": 0.067978,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T17:29:55.264435"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 99,
+    "params": 14068,
+    "accuracy": 44.3585,
+    "f1_macro": 45.0168,
+    "ece": 0.048707,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T17:48:20.769458"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 123,
+    "params": 14068,
+    "accuracy": 42.2308,
+    "f1_macro": 42.996,
+    "ece": 0.065102,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T18:06:53.725177"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 456,
+    "params": 14068,
+    "accuracy": 40.4255,
+    "f1_macro": 40.7056,
+    "ece": 0.051358,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T18:21:21.782579"
+  }
+]

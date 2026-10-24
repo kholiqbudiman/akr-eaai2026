@@ -1,0 +1,72 @@
+[
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 5,
+    "params": 14068,
+    "accuracy": 41.1992,
+    "f1_macro": 41.5021,
+    "ece": 0.07563,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T17:16:43.342744"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 42,
+    "params": 14068,
+    "accuracy": 42.2308,
+    "f1_macro": 43.3209,
+    "ece": 0.056579,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T17:33:19.232501"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 99,
+    "params": 14068,
+    "accuracy": 43.7137,
+    "f1_macro": 44.5395,
+    "ece": 0.041701,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T17:49:05.592199"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 123,
+    "params": 14068,
+    "accuracy": 40.1676,
+    "f1_macro": 41.1086,
+    "ece": 0.062251,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T18:01:18.196898"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 456,
+    "params": 14068,
+    "accuracy": 38.8781,
+    "f1_macro": 39.5666,
+    "ece": 0.054741,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T18:15:56.222911"
+  }
+]

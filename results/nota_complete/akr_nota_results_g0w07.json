@@ -1,0 +1,24 @@
+[
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 99,
+    "params": 31932,
+    "accuracy": 47.5177,
+    "f1_macro": 45.7534,
+    "ece": 0.066896,
+    "timestamp": "2026-06-26T07:04:33.930600"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 123,
+    "params": 31932,
+    "accuracy": 40.619,
+    "f1_macro": 39.7714,
+    "ece": 0.065357,
+    "timestamp": "2026-06-26T07:11:51.962805"
+  }
+]

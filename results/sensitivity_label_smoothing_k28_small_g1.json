@@ -1,0 +1,67 @@
+[
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 5,
+    "params": 31932,
+    "accuracy": 48.0335,
+    "f1_macro": 46.4127,
+    "ece": 0.048647,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T17:16:53.383464"
+  },
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 42,
+    "params": 31932,
+    "accuracy": 46.4217,
+    "f1_macro": 46.0999,
+    "ece": 0.068856,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T17:33:28.857262"
+  },
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 99,
+    "params": 31932,
+    "accuracy": 43.4558,
+    "f1_macro": 43.557,
+    "ece": 0.075198,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T17:47:18.929120"
+  },
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 123,
+    "params": 31932,
+    "accuracy": 45.1322,
+    "f1_macro": 44.4804,
+    "ece": 0.062413,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T18:00:21.574924"
+  },
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Small",
+    "k": 28,
+    "seed": 456,
+    "params": 31932,
+    "accuracy": 46.0993,
+    "f1_macro": 45.4626,
+    "ece": 0.068591,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T18:18:36.759552"
+  }
+]

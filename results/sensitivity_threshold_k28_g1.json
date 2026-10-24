@@ -1,0 +1,44 @@
+[
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 5,
+    "params": 14068,
+    "accuracy": 40.1032,
+    "f1_macro": 41.0896,
+    "ece": 0.049598,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T18:43:10.074992"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 42,
+    "params": 14068,
+    "accuracy": 41.715,
+    "f1_macro": 42.9105,
+    "ece": 0.063257,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T18:54:52.641987"
+  },
+  {
+    "experiment": "threshold",
+    "config": "q33_33",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 99,
+    "params": 14068,
+    "accuracy": 39.7163,
+    "f1_macro": 39.8928,
+    "ece": 0.068279,
+    "easy_quantile": 0.33,
+    "hard_quantile": 0.67,
+    "timestamp": "2026-06-24T19:02:39.369957"
+  }
+]

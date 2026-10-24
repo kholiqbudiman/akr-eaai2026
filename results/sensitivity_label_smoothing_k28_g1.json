@@ -1,0 +1,28 @@
+[
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 5,
+    "params": 14068,
+    "accuracy": 42.94,
+    "f1_macro": 41.8936,
+    "ece": 0.029733,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T18:47:33.146625"
+  },
+  {
+    "experiment": "label_smoothing",
+    "config": "ls00",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 42,
+    "params": 14068,
+    "accuracy": 43.3269,
+    "f1_macro": 42.9679,
+    "ece": 0.03721,
+    "ls_epsilon": 0.0,
+    "timestamp": "2026-06-24T18:59:57.819715"
+  }
+]

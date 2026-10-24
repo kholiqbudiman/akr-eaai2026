@@ -1,0 +1,44 @@
+[
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 5,
+    "params": 14068,
+    "accuracy": 39.265,
+    "f1_macro": 39.5236,
+    "ece": 0.055364,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T18:41:30.185972"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 42,
+    "params": 14068,
+    "accuracy": 38.3623,
+    "f1_macro": 39.0032,
+    "ece": 0.041711,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T18:48:33.005282"
+  },
+  {
+    "experiment": "alpha",
+    "config": "a01_07",
+    "student": "WasteNet-Micro",
+    "k": 28,
+    "seed": 99,
+    "params": 14068,
+    "accuracy": 42.94,
+    "f1_macro": 43.2304,
+    "ece": 0.049236,
+    "alpha_lo": 0.1,
+    "alpha_hi": 0.7,
+    "timestamp": "2026-06-24T19:01:55.438138"
+  }
+]

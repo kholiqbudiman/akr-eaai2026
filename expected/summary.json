@@ -1,0 +1,13 @@
+{
+  "artifact_checksums": "PASS",
+  "compact_n": 280,
+  "run_wins": 167,
+  "configuration_wins": 21,
+  "configurations": 28,
+  "mean_delta_pp": 0.6026460714285713,
+  "factorial_interaction_pp": 4.083163750000001,
+  "cifar_n": 35,
+  "cifar_mean_delta_pp": -0.29237428571428553,
+  "sensitivity_records": 600,
+  "nota_records": 80
+}

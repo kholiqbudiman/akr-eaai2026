@@ -1,0 +1,112 @@
+[
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 7,
+    "seed": 5,
+    "params": 12703,
+    "accuracy": 55.706,
+    "f1_macro": 51.2049,
+    "ece": 0.046269,
+    "timestamp": "2026-06-26T06:47:23.539603"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 7,
+    "seed": 42,
+    "params": 12703,
+    "accuracy": 54.1586,
+    "f1_macro": 51.814,
+    "ece": 0.044717,
+    "timestamp": "2026-06-26T06:52:03.389766"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 7,
+    "seed": 99,
+    "params": 12703,
+    "accuracy": 53.5783,
+    "f1_macro": 49.2732,
+    "ece": 0.040052,
+    "timestamp": "2026-06-26T06:58:28.025619"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 7,
+    "seed": 123,
+    "params": 12703,
+    "accuracy": 53.7718,
+    "f1_macro": 51.529,
+    "ece": 0.037578,
+    "timestamp": "2026-06-26T07:04:31.901324"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 7,
+    "seed": 456,
+    "params": 12703,
+    "accuracy": 53.9652,
+    "f1_macro": 50.6584,
+    "ece": 0.030771,
+    "timestamp": "2026-06-26T07:10:29.820645"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 7,
+    "seed": 5,
+    "params": 29895,
+    "accuracy": 58.6718,
+    "f1_macro": 55.195,
+    "ece": 0.032968,
+    "timestamp": "2026-06-26T07:14:02.766817"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 7,
+    "seed": 42,
+    "params": 29895,
+    "accuracy": 58.0271,
+    "f1_macro": 54.9546,
+    "ece": 0.034119,
+    "timestamp": "2026-06-26T07:17:07.685753"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 7,
+    "seed": 99,
+    "params": 29895,
+    "accuracy": 57.7692,
+    "f1_macro": 54.63,
+    "ece": 0.043382,
+    "timestamp": "2026-06-26T07:21:08.858367"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 7,
+    "seed": 123,
+    "params": 29895,
+    "accuracy": 55.9639,
+    "f1_macro": 52.2798,
+    "ece": 0.037844,
+    "timestamp": "2026-06-26T07:24:13.927572"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 7,
+    "seed": 456,
+    "params": 29895,
+    "accuracy": 60.4126,
+    "f1_macro": 56.2817,
+    "ece": 0.046243,
+    "timestamp": "2026-06-26T07:28:49.089628"
+  }
+]

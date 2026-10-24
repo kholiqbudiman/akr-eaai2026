@@ -1,0 +1,46 @@
+[
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 6,
+    "seed": 456,
+    "params": 12638,
+    "accuracy": 71.063,
+    "f1_macro": 68.9813,
+    "ece": 0.064304,
+    "timestamp": "2026-06-26T06:56:04.882816"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Micro",
+    "k": 6,
+    "seed": 777,
+    "params": 12638,
+    "accuracy": 71.4567,
+    "f1_macro": 69.6388,
+    "ece": 0.069676,
+    "timestamp": "2026-06-26T07:02:43.401389"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 6,
+    "seed": 456,
+    "params": 29798,
+    "accuracy": 76.1811,
+    "f1_macro": 74.1194,
+    "ece": 0.062321,
+    "timestamp": "2026-06-26T07:09:51.819062"
+  },
+  {
+    "method": "akr_nota",
+    "student": "WasteNet-Small",
+    "k": 6,
+    "seed": 777,
+    "params": 29798,
+    "accuracy": 77.5591,
+    "f1_macro": 76.4741,
+    "ece": 0.083702,
+    "timestamp": "2026-06-26T07:16:22.413746"
+  }
+]

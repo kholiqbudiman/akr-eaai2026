@@ -1,0 +1,7 @@
+{
+  "n": 80,
+  "mean_full_minus_nota_pp": 1.4547062499999999,
+  "nominal_wilcoxon_p": 0.0001197573517716708,
+  "source": "results/nota_complete/akr_nota_merged.json",
+  "selection": "Pre-existing merged archive; exact record matches to worker outputs; alternative attempts retained, not pooled."
+}
