@@ -1,6 +1,6 @@
 # AKR research artifact
 
-Companion artifact for **AKR: Adaptive Knowledge Routing for Selective Distillation in Ultra-Compact Image Classifiers**.
+Companion artifact for **Adaptive Knowledge Routing for Ultra-Compact Waste-Image Classification**.
 
 ## Reproduce reported analyses (CPU; no training)
 
